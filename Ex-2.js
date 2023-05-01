@@ -1,0 +1,1 @@
+//No console.log() colocamos os um ou mais dados que queremos imprimir no console

@@ -1,0 +1,1 @@
+// O ECMAScript é a padronização do JavaScript feita pela ECMA, a única diferença é que o ECMAScript tem funções exclusivas e usa o JavaScript como base 
